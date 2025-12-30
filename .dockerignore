@@ -1,3 +1,8 @@
-package-lock.json
 node_modules
-yarn.lock
+.git
+.github
+.gitignore
+Dockerfile.dev
+docker-compose.yml
+README.md
+npm-debug.log
